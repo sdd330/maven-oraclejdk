@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-oraclejdk8
+FROM 1science/java
 
 MAINTAINER yang.leijun@gmail.com
 
